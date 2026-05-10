@@ -32,9 +32,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sonaa1107/DSA_SHEET/tree/master/0075-sort-colors) |
 | [1816-truncate-sentence](https://github.com/sonaa1107/DSA_SHEET/tree/master/1816-truncate-sentence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sonaa1107/DSA_SHEET/tree/master/0022-generate-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sonaa1107/DSA_SHEET/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sonaa1107/DSA_SHEET/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
