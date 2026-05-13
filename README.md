@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sonaa1107/DSA_SHEET/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/sonaa1107/DSA_SHEET/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/sonaa1107/DSA_SHEET/tree/master/0051-n-queens) |
 | [0216-combination-sum-iii](https://github.com/sonaa1107/DSA_SHEET/tree/master/0216-combination-sum-iii) |
 ## Math
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/sonaa1107/DSA_SHEET/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/sonaa1107/DSA_SHEET/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/sonaa1107/DSA_SHEET/tree/master/0075-sort-colors) |
 | [0216-combination-sum-iii](https://github.com/sonaa1107/DSA_SHEET/tree/master/0216-combination-sum-iii) |
