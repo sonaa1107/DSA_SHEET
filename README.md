@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/sonaa1107/DSA_SHEET/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/sonaa1107/DSA_SHEET/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/sonaa1107/DSA_SHEET/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/sonaa1107/DSA_SHEET/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/sonaa1107/DSA_SHEET/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/sonaa1107/DSA_SHEET/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/sonaa1107/DSA_SHEET/tree/master/0216-combination-sum-iii) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/sonaa1107/DSA_SHEET/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/sonaa1107/DSA_SHEET/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/sonaa1107/DSA_SHEET/tree/master/0055-jump-game) |
 | [0940-distinct-subsequences-ii](https://github.com/sonaa1107/DSA_SHEET/tree/master/0940-distinct-subsequences-ii) |
 ## Two Pointers
 |  |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/sonaa1107/DSA_SHEET/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/sonaa1107/DSA_SHEET/tree/master/0079-word-search) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/sonaa1107/DSA_SHEET/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
