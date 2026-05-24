@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/sonaa1107/DSA_SHEET/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/sonaa1107/DSA_SHEET/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/sonaa1107/DSA_SHEET/tree/master/0079-word-search) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sonaa1107/DSA_SHEET/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0216-combination-sum-iii](https://github.com/sonaa1107/DSA_SHEET/tree/master/0216-combination-sum-iii) |
 | [1816-truncate-sentence](https://github.com/sonaa1107/DSA_SHEET/tree/master/1816-truncate-sentence) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/sonaa1107/DSA_SHEET/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/sonaa1107/DSA_SHEET/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/sonaa1107/DSA_SHEET/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sonaa1107/DSA_SHEET/tree/master/0055-jump-game) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sonaa1107/DSA_SHEET/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0940-distinct-subsequences-ii](https://github.com/sonaa1107/DSA_SHEET/tree/master/0940-distinct-subsequences-ii) |
 ## Two Pointers
 |  |
