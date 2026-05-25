@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sonaa1107/DSA_SHEET/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0216-combination-sum-iii](https://github.com/sonaa1107/DSA_SHEET/tree/master/0216-combination-sum-iii) |
 | [1816-truncate-sentence](https://github.com/sonaa1107/DSA_SHEET/tree/master/1816-truncate-sentence) |
+| [1834-single-threaded-cpu](https://github.com/sonaa1107/DSA_SHEET/tree/master/1834-single-threaded-cpu) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/sonaa1107/DSA_SHEET/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sonaa1107/DSA_SHEET/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sonaa1107/DSA_SHEET/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sonaa1107/DSA_SHEET/tree/master/0075-sort-colors) |
+| [1834-single-threaded-cpu](https://github.com/sonaa1107/DSA_SHEET/tree/master/1834-single-threaded-cpu) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/sonaa1107/DSA_SHEET/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sonaa1107/DSA_SHEET/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2611-mice-and-cheese](https://github.com/sonaa1107/DSA_SHEET/tree/master/2611-mice-and-cheese) |
@@ -111,5 +113,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1834-single-threaded-cpu](https://github.com/sonaa1107/DSA_SHEET/tree/master/1834-single-threaded-cpu) |
 | [2611-mice-and-cheese](https://github.com/sonaa1107/DSA_SHEET/tree/master/2611-mice-and-cheese) |
 <!---LeetCode Topics End-->
