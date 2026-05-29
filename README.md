@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sonaa1107/DSA_SHEET/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/sonaa1107/DSA_SHEET/tree/master/0037-sudoku-solver) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/sonaa1107/DSA_SHEET/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/sonaa1107/DSA_SHEET/tree/master/0567-permutation-in-string) |
 | [2325-decode-the-message](https://github.com/sonaa1107/DSA_SHEET/tree/master/2325-decode-the-message) |
 ## String
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sonaa1107/DSA_SHEET/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/sonaa1107/DSA_SHEET/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/sonaa1107/DSA_SHEET/tree/master/0079-word-search) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/sonaa1107/DSA_SHEET/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/sonaa1107/DSA_SHEET/tree/master/0567-permutation-in-string) |
 | [0940-distinct-subsequences-ii](https://github.com/sonaa1107/DSA_SHEET/tree/master/0940-distinct-subsequences-ii) |
 | [1816-truncate-sentence](https://github.com/sonaa1107/DSA_SHEET/tree/master/1816-truncate-sentence) |
@@ -125,5 +127,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/sonaa1107/DSA_SHEET/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/sonaa1107/DSA_SHEET/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
