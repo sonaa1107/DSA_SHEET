@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/sonaa1107/DSA_SHEET/tree/master/0177-nth-highest-salary) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/sonaa1107/DSA_SHEET/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 ## Depth-First Search
 |  |
 | ------- |
