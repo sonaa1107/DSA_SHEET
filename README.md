@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sonaa1107/DSA_SHEET/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/sonaa1107/DSA_SHEET/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/sonaa1107/DSA_SHEET/tree/master/0073-set-matrix-zeroes) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sonaa1107/DSA_SHEET/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/sonaa1107/DSA_SHEET/tree/master/0567-permutation-in-string) |
 | [2325-decode-the-message](https://github.com/sonaa1107/DSA_SHEET/tree/master/2325-decode-the-message) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/sonaa1107/DSA_SHEET/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/sonaa1107/DSA_SHEET/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/sonaa1107/DSA_SHEET/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/sonaa1107/DSA_SHEET/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sonaa1107/DSA_SHEET/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/sonaa1107/DSA_SHEET/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sonaa1107/DSA_SHEET/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/sonaa1107/DSA_SHEET/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/sonaa1107/DSA_SHEET/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/sonaa1107/DSA_SHEET/tree/master/0079-word-search) |
 ## Greedy
 |  |
