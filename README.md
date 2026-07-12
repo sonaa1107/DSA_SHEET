@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/sonaa1107/DSA_SHEET/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/sonaa1107/DSA_SHEET/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/sonaa1107/DSA_SHEET/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/sonaa1107/DSA_SHEET/tree/master/0051-n-queens) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/sonaa1107/DSA_SHEET/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/sonaa1107/DSA_SHEET/tree/master/0075-sort-colors) |
 | [0567-permutation-in-string](https://github.com/sonaa1107/DSA_SHEET/tree/master/0567-permutation-in-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sonaa1107/DSA_SHEET/tree/master/2149-rearrange-array-elements-by-sign) |
