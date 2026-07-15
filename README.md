@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/sonaa1107/DSA_SHEET/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sonaa1107/DSA_SHEET/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0216-combination-sum-iii](https://github.com/sonaa1107/DSA_SHEET/tree/master/0216-combination-sum-iii) |
+| [0287-find-the-duplicate-number](https://github.com/sonaa1107/DSA_SHEET/tree/master/0287-find-the-duplicate-number) |
 | [0435-non-overlapping-intervals](https://github.com/sonaa1107/DSA_SHEET/tree/master/0435-non-overlapping-intervals) |
 | [1094-car-pooling](https://github.com/sonaa1107/DSA_SHEET/tree/master/1094-car-pooling) |
 | [1710-maximum-units-on-a-truck](https://github.com/sonaa1107/DSA_SHEET/tree/master/1710-maximum-units-on-a-truck) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/sonaa1107/DSA_SHEET/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/sonaa1107/DSA_SHEET/tree/master/0075-sort-colors) |
+| [0287-find-the-duplicate-number](https://github.com/sonaa1107/DSA_SHEET/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/sonaa1107/DSA_SHEET/tree/master/0567-permutation-in-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sonaa1107/DSA_SHEET/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -159,5 +161,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/sonaa1107/DSA_SHEET/tree/master/0287-find-the-duplicate-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/sonaa1107/DSA_SHEET/tree/master/2220-minimum-bit-flips-to-convert-number) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/sonaa1107/DSA_SHEET/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
