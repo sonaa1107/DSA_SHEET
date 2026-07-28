@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sonaa1107/DSA_SHEET/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/sonaa1107/DSA_SHEET/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/sonaa1107/DSA_SHEET/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/sonaa1107/DSA_SHEET/tree/master/0128-longest-consecutive-sequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sonaa1107/DSA_SHEET/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/sonaa1107/DSA_SHEET/tree/master/0567-permutation-in-string) |
 | [2325-decode-the-message](https://github.com/sonaa1107/DSA_SHEET/tree/master/2325-decode-the-message) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/sonaa1107/DSA_SHEET/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/sonaa1107/DSA_SHEET/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sonaa1107/DSA_SHEET/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/sonaa1107/DSA_SHEET/tree/master/0128-longest-consecutive-sequence) |
 | [0216-combination-sum-iii](https://github.com/sonaa1107/DSA_SHEET/tree/master/0216-combination-sum-iii) |
 | [0287-find-the-duplicate-number](https://github.com/sonaa1107/DSA_SHEET/tree/master/0287-find-the-duplicate-number) |
 | [0435-non-overlapping-intervals](https://github.com/sonaa1107/DSA_SHEET/tree/master/0435-non-overlapping-intervals) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sonaa1107/DSA_SHEET/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/sonaa1107/DSA_SHEET/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
