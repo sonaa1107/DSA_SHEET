@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/sonaa1107/DSA_SHEET/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/sonaa1107/DSA_SHEET/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/sonaa1107/DSA_SHEET/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/sonaa1107/DSA_SHEET/tree/master/0229-majority-element-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sonaa1107/DSA_SHEET/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/sonaa1107/DSA_SHEET/tree/master/0567-permutation-in-string) |
 | [2325-decode-the-message](https://github.com/sonaa1107/DSA_SHEET/tree/master/2325-decode-the-message) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sonaa1107/DSA_SHEET/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/sonaa1107/DSA_SHEET/tree/master/0128-longest-consecutive-sequence) |
 | [0216-combination-sum-iii](https://github.com/sonaa1107/DSA_SHEET/tree/master/0216-combination-sum-iii) |
+| [0229-majority-element-ii](https://github.com/sonaa1107/DSA_SHEET/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/sonaa1107/DSA_SHEET/tree/master/0287-find-the-duplicate-number) |
 | [0435-non-overlapping-intervals](https://github.com/sonaa1107/DSA_SHEET/tree/master/0435-non-overlapping-intervals) |
 | [1094-car-pooling](https://github.com/sonaa1107/DSA_SHEET/tree/master/1094-car-pooling) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sonaa1107/DSA_SHEET/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/sonaa1107/DSA_SHEET/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sonaa1107/DSA_SHEET/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/sonaa1107/DSA_SHEET/tree/master/0229-majority-element-ii) |
 | [0435-non-overlapping-intervals](https://github.com/sonaa1107/DSA_SHEET/tree/master/0435-non-overlapping-intervals) |
 | [1094-car-pooling](https://github.com/sonaa1107/DSA_SHEET/tree/master/1094-car-pooling) |
 | [1710-maximum-units-on-a-truck](https://github.com/sonaa1107/DSA_SHEET/tree/master/1710-maximum-units-on-a-truck) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/sonaa1107/DSA_SHEET/tree/master/0229-majority-element-ii) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/sonaa1107/DSA_SHEET/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Heap (Priority Queue)
 |  |
