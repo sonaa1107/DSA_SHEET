@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/sonaa1107/DSA_SHEET/tree/master/0079-word-search) |
 | [0547-number-of-provinces](https://github.com/sonaa1107/DSA_SHEET/tree/master/0547-number-of-provinces) |
+| [1302-deepest-leaves-sum](https://github.com/sonaa1107/DSA_SHEET/tree/master/1302-deepest-leaves-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/sonaa1107/DSA_SHEET/tree/master/0547-number-of-provinces) |
+| [1302-deepest-leaves-sum](https://github.com/sonaa1107/DSA_SHEET/tree/master/1302-deepest-leaves-sum) |
 ## Union-Find
 |  |
 | ------- |
@@ -192,4 +194,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/sonaa1107/DSA_SHEET/tree/master/0547-number-of-provinces) |
+## Tree
+|  |
+| ------- |
+| [1302-deepest-leaves-sum](https://github.com/sonaa1107/DSA_SHEET/tree/master/1302-deepest-leaves-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [1302-deepest-leaves-sum](https://github.com/sonaa1107/DSA_SHEET/tree/master/1302-deepest-leaves-sum) |
 <!---LeetCode Topics End-->
