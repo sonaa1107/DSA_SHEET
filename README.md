@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/sonaa1107/DSA_SHEET/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sonaa1107/DSA_SHEET/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sonaa1107/DSA_SHEET/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/sonaa1107/DSA_SHEET/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/sonaa1107/DSA_SHEET/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/sonaa1107/DSA_SHEET/tree/master/0287-find-the-duplicate-number) |
@@ -208,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1302-deepest-leaves-sum](https://github.com/sonaa1107/DSA_SHEET/tree/master/1302-deepest-leaves-sum) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sonaa1107/DSA_SHEET/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
