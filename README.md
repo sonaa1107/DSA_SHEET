@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/sonaa1107/DSA_SHEET/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/sonaa1107/DSA_SHEET/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/sonaa1107/DSA_SHEET/tree/master/0234-palindrome-linked-list) |
 | [1922-count-good-numbers](https://github.com/sonaa1107/DSA_SHEET/tree/master/1922-count-good-numbers) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sonaa1107/DSA_SHEET/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0025-reverse-nodes-in-k-group](https://github.com/sonaa1107/DSA_SHEET/tree/master/0025-reverse-nodes-in-k-group) |
 | [0234-palindrome-linked-list](https://github.com/sonaa1107/DSA_SHEET/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
