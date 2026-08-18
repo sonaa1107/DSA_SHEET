@@ -44,12 +44,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/sonaa1107/DSA_SHEET/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sonaa1107/DSA_SHEET/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/sonaa1107/DSA_SHEET/tree/master/0060-permutation-sequence) |
 | [1922-count-good-numbers](https://github.com/sonaa1107/DSA_SHEET/tree/master/1922-count-good-numbers) |
 ## Recursion
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/sonaa1107/DSA_SHEET/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/sonaa1107/DSA_SHEET/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/sonaa1107/DSA_SHEET/tree/master/0060-permutation-sequence) |
 | [0234-palindrome-linked-list](https://github.com/sonaa1107/DSA_SHEET/tree/master/0234-palindrome-linked-list) |
 | [1922-count-good-numbers](https://github.com/sonaa1107/DSA_SHEET/tree/master/1922-count-good-numbers) |
 ## Array
