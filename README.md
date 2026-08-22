@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/sonaa1107/DSA_SHEET/tree/master/0146-lru-cache) |
 | [0229-majority-element-ii](https://github.com/sonaa1107/DSA_SHEET/tree/master/0229-majority-element-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sonaa1107/DSA_SHEET/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0460-lfu-cache](https://github.com/sonaa1107/DSA_SHEET/tree/master/0460-lfu-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/sonaa1107/DSA_SHEET/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/sonaa1107/DSA_SHEET/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sonaa1107/DSA_SHEET/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/sonaa1107/DSA_SHEET/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/sonaa1107/DSA_SHEET/tree/master/0146-lru-cache) |
 | [0234-palindrome-linked-list](https://github.com/sonaa1107/DSA_SHEET/tree/master/0234-palindrome-linked-list) |
+| [0460-lfu-cache](https://github.com/sonaa1107/DSA_SHEET/tree/master/0460-lfu-cache) |
 ## Stack
 |  |
 | ------- |
@@ -246,8 +248,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/sonaa1107/DSA_SHEET/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/sonaa1107/DSA_SHEET/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/sonaa1107/DSA_SHEET/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/sonaa1107/DSA_SHEET/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
