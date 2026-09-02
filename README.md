@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/sonaa1107/DSA_SHEET/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/sonaa1107/DSA_SHEET/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/sonaa1107/DSA_SHEET/tree/master/0146-lru-cache) |
+| [0219-contains-duplicate-ii](https://github.com/sonaa1107/DSA_SHEET/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/sonaa1107/DSA_SHEET/tree/master/0229-majority-element-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sonaa1107/DSA_SHEET/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0460-lfu-cache](https://github.com/sonaa1107/DSA_SHEET/tree/master/0460-lfu-cache) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/sonaa1107/DSA_SHEET/tree/master/0128-longest-consecutive-sequence) |
 | [0179-largest-number](https://github.com/sonaa1107/DSA_SHEET/tree/master/0179-largest-number) |
 | [0216-combination-sum-iii](https://github.com/sonaa1107/DSA_SHEET/tree/master/0216-combination-sum-iii) |
+| [0219-contains-duplicate-ii](https://github.com/sonaa1107/DSA_SHEET/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/sonaa1107/DSA_SHEET/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/sonaa1107/DSA_SHEET/tree/master/0287-find-the-duplicate-number) |
 | [0435-non-overlapping-intervals](https://github.com/sonaa1107/DSA_SHEET/tree/master/0435-non-overlapping-intervals) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/sonaa1107/DSA_SHEET/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sonaa1107/DSA_SHEET/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/sonaa1107/DSA_SHEET/tree/master/0567-permutation-in-string) |
 ## Prefix Sum
