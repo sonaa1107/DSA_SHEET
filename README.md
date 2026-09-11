@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sonaa1107/DSA_SHEET/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/sonaa1107/DSA_SHEET/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/sonaa1107/DSA_SHEET/tree/master/0179-largest-number) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sonaa1107/DSA_SHEET/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sonaa1107/DSA_SHEET/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/sonaa1107/DSA_SHEET/tree/master/0567-permutation-in-string) |
 | [0940-distinct-subsequences-ii](https://github.com/sonaa1107/DSA_SHEET/tree/master/0940-distinct-subsequences-ii) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/sonaa1107/DSA_SHEET/tree/master/0079-word-search) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sonaa1107/DSA_SHEET/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sonaa1107/DSA_SHEET/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/sonaa1107/DSA_SHEET/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sonaa1107/DSA_SHEET/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sonaa1107/DSA_SHEET/tree/master/0662-maximum-width-of-binary-tree) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sonaa1107/DSA_SHEET/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sonaa1107/DSA_SHEET/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/sonaa1107/DSA_SHEET/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sonaa1107/DSA_SHEET/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sonaa1107/DSA_SHEET/tree/master/0662-maximum-width-of-binary-tree) |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sonaa1107/DSA_SHEET/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sonaa1107/DSA_SHEET/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0173-binary-search-tree-iterator](https://github.com/sonaa1107/DSA_SHEET/tree/master/0173-binary-search-tree-iterator) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sonaa1107/DSA_SHEET/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sonaa1107/DSA_SHEET/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sonaa1107/DSA_SHEET/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sonaa1107/DSA_SHEET/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -259,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sonaa1107/DSA_SHEET/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sonaa1107/DSA_SHEET/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0173-binary-search-tree-iterator](https://github.com/sonaa1107/DSA_SHEET/tree/master/0173-binary-search-tree-iterator) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sonaa1107/DSA_SHEET/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sonaa1107/DSA_SHEET/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sonaa1107/DSA_SHEET/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sonaa1107/DSA_SHEET/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -295,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/sonaa1107/DSA_SHEET/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/sonaa1107/DSA_SHEET/tree/master/0173-binary-search-tree-iterator) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sonaa1107/DSA_SHEET/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0460-lfu-cache](https://github.com/sonaa1107/DSA_SHEET/tree/master/0460-lfu-cache) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sonaa1107/DSA_SHEET/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Doubly-Linked List
