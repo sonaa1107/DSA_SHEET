@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sonaa1107/DSA_SHEET/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sonaa1107/DSA_SHEET/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sonaa1107/DSA_SHEET/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0173-binary-search-tree-iterator](https://github.com/sonaa1107/DSA_SHEET/tree/master/0173-binary-search-tree-iterator) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sonaa1107/DSA_SHEET/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sonaa1107/DSA_SHEET/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sonaa1107/DSA_SHEET/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sonaa1107/DSA_SHEET/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sonaa1107/DSA_SHEET/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sonaa1107/DSA_SHEET/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0173-binary-search-tree-iterator](https://github.com/sonaa1107/DSA_SHEET/tree/master/0173-binary-search-tree-iterator) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sonaa1107/DSA_SHEET/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sonaa1107/DSA_SHEET/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sonaa1107/DSA_SHEET/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -273,11 +275,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/sonaa1107/DSA_SHEET/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/sonaa1107/DSA_SHEET/tree/master/0234-palindrome-linked-list) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sonaa1107/DSA_SHEET/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/sonaa1107/DSA_SHEET/tree/master/0173-binary-search-tree-iterator) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sonaa1107/DSA_SHEET/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sonaa1107/DSA_SHEET/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sonaa1107/DSA_SHEET/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -285,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/sonaa1107/DSA_SHEET/tree/master/0146-lru-cache) |
+| [0173-binary-search-tree-iterator](https://github.com/sonaa1107/DSA_SHEET/tree/master/0173-binary-search-tree-iterator) |
 | [0460-lfu-cache](https://github.com/sonaa1107/DSA_SHEET/tree/master/0460-lfu-cache) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sonaa1107/DSA_SHEET/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Doubly-Linked List
@@ -300,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sonaa1107/DSA_SHEET/tree/master/0703-kth-largest-element-in-a-stream) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/sonaa1107/DSA_SHEET/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
