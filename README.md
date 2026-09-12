@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/sonaa1107/DSA_SHEET/tree/master/0146-lru-cache) |
 | [0219-contains-duplicate-ii](https://github.com/sonaa1107/DSA_SHEET/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/sonaa1107/DSA_SHEET/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/sonaa1107/DSA_SHEET/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sonaa1107/DSA_SHEET/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0460-lfu-cache](https://github.com/sonaa1107/DSA_SHEET/tree/master/0460-lfu-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/sonaa1107/DSA_SHEET/tree/master/0560-subarray-sum-equals-k) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/sonaa1107/DSA_SHEET/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/sonaa1107/DSA_SHEET/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/sonaa1107/DSA_SHEET/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/sonaa1107/DSA_SHEET/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/sonaa1107/DSA_SHEET/tree/master/0435-non-overlapping-intervals) |
 | [0560-subarray-sum-equals-k](https://github.com/sonaa1107/DSA_SHEET/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/sonaa1107/DSA_SHEET/tree/master/0658-find-k-closest-elements) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sonaa1107/DSA_SHEET/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/sonaa1107/DSA_SHEET/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/sonaa1107/DSA_SHEET/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/sonaa1107/DSA_SHEET/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/sonaa1107/DSA_SHEET/tree/master/0435-non-overlapping-intervals) |
 | [0658-find-k-closest-elements](https://github.com/sonaa1107/DSA_SHEET/tree/master/0658-find-k-closest-elements) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sonaa1107/DSA_SHEET/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sonaa1107/DSA_SHEET/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sonaa1107/DSA_SHEET/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sonaa1107/DSA_SHEET/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0347-top-k-frequent-elements](https://github.com/sonaa1107/DSA_SHEET/tree/master/0347-top-k-frequent-elements) |
 ## Database
 |  |
 | ------- |
@@ -197,10 +201,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/sonaa1107/DSA_SHEET/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/sonaa1107/DSA_SHEET/tree/master/0347-top-k-frequent-elements) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/sonaa1107/DSA_SHEET/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sonaa1107/DSA_SHEET/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/sonaa1107/DSA_SHEET/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sonaa1107/DSA_SHEET/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1094-car-pooling](https://github.com/sonaa1107/DSA_SHEET/tree/master/1094-car-pooling) |
@@ -330,4 +336,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/sonaa1107/DSA_SHEET/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sonaa1107/DSA_SHEET/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sonaa1107/DSA_SHEET/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
