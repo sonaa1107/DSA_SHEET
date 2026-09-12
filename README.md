@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/sonaa1107/DSA_SHEET/tree/master/0287-find-the-duplicate-number) |
 | [0435-non-overlapping-intervals](https://github.com/sonaa1107/DSA_SHEET/tree/master/0435-non-overlapping-intervals) |
 | [0560-subarray-sum-equals-k](https://github.com/sonaa1107/DSA_SHEET/tree/master/0560-subarray-sum-equals-k) |
+| [0658-find-k-closest-elements](https://github.com/sonaa1107/DSA_SHEET/tree/master/0658-find-k-closest-elements) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sonaa1107/DSA_SHEET/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1094-car-pooling](https://github.com/sonaa1107/DSA_SHEET/tree/master/1094-car-pooling) |
 | [1710-maximum-units-on-a-truck](https://github.com/sonaa1107/DSA_SHEET/tree/master/1710-maximum-units-on-a-truck) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/sonaa1107/DSA_SHEET/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/sonaa1107/DSA_SHEET/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sonaa1107/DSA_SHEET/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0658-find-k-closest-elements](https://github.com/sonaa1107/DSA_SHEET/tree/master/0658-find-k-closest-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sonaa1107/DSA_SHEET/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/sonaa1107/DSA_SHEET/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/sonaa1107/DSA_SHEET/tree/master/0229-majority-element-ii) |
 | [0435-non-overlapping-intervals](https://github.com/sonaa1107/DSA_SHEET/tree/master/0435-non-overlapping-intervals) |
+| [0658-find-k-closest-elements](https://github.com/sonaa1107/DSA_SHEET/tree/master/0658-find-k-closest-elements) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sonaa1107/DSA_SHEET/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1094-car-pooling](https://github.com/sonaa1107/DSA_SHEET/tree/master/1094-car-pooling) |
 | [1710-maximum-units-on-a-truck](https://github.com/sonaa1107/DSA_SHEET/tree/master/1710-maximum-units-on-a-truck) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/sonaa1107/DSA_SHEET/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sonaa1107/DSA_SHEET/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1094-car-pooling](https://github.com/sonaa1107/DSA_SHEET/tree/master/1094-car-pooling) |
 | [1834-single-threaded-cpu](https://github.com/sonaa1107/DSA_SHEET/tree/master/1834-single-threaded-cpu) |
@@ -208,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/sonaa1107/DSA_SHEET/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sonaa1107/DSA_SHEET/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/sonaa1107/DSA_SHEET/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/sonaa1107/DSA_SHEET/tree/master/0658-find-k-closest-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -222,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/sonaa1107/DSA_SHEET/tree/master/0287-find-the-duplicate-number) |
+| [0658-find-k-closest-elements](https://github.com/sonaa1107/DSA_SHEET/tree/master/0658-find-k-closest-elements) |
 ## Breadth-First Search
 |  |
 | ------- |
