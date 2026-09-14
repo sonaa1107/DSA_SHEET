@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sonaa1107/DSA_SHEET/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sonaa1107/DSA_SHEET/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/sonaa1107/DSA_SHEET/tree/master/0060-permutation-sequence) |
+| [0973-k-closest-points-to-origin](https://github.com/sonaa1107/DSA_SHEET/tree/master/0973-k-closest-points-to-origin) |
 | [1922-count-good-numbers](https://github.com/sonaa1107/DSA_SHEET/tree/master/1922-count-good-numbers) |
 ## Recursion
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/sonaa1107/DSA_SHEET/tree/master/0435-non-overlapping-intervals) |
 | [0560-subarray-sum-equals-k](https://github.com/sonaa1107/DSA_SHEET/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/sonaa1107/DSA_SHEET/tree/master/0658-find-k-closest-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/sonaa1107/DSA_SHEET/tree/master/0973-k-closest-points-to-origin) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sonaa1107/DSA_SHEET/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1094-car-pooling](https://github.com/sonaa1107/DSA_SHEET/tree/master/1094-car-pooling) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sonaa1107/DSA_SHEET/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sonaa1107/DSA_SHEET/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/sonaa1107/DSA_SHEET/tree/master/0435-non-overlapping-intervals) |
 | [0658-find-k-closest-elements](https://github.com/sonaa1107/DSA_SHEET/tree/master/0658-find-k-closest-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/sonaa1107/DSA_SHEET/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sonaa1107/DSA_SHEET/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1094-car-pooling](https://github.com/sonaa1107/DSA_SHEET/tree/master/1094-car-pooling) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sonaa1107/DSA_SHEET/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sonaa1107/DSA_SHEET/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sonaa1107/DSA_SHEET/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/sonaa1107/DSA_SHEET/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/sonaa1107/DSA_SHEET/tree/master/0973-k-closest-points-to-origin) |
 ## Database
 |  |
 | ------- |
@@ -212,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sonaa1107/DSA_SHEET/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/sonaa1107/DSA_SHEET/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sonaa1107/DSA_SHEET/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0973-k-closest-points-to-origin](https://github.com/sonaa1107/DSA_SHEET/tree/master/0973-k-closest-points-to-origin) |
 | [1094-car-pooling](https://github.com/sonaa1107/DSA_SHEET/tree/master/1094-car-pooling) |
 | [1834-single-threaded-cpu](https://github.com/sonaa1107/DSA_SHEET/tree/master/1834-single-threaded-cpu) |
 | [2611-mice-and-cheese](https://github.com/sonaa1107/DSA_SHEET/tree/master/2611-mice-and-cheese) |
@@ -347,4 +352,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sonaa1107/DSA_SHEET/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/sonaa1107/DSA_SHEET/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/sonaa1107/DSA_SHEET/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/sonaa1107/DSA_SHEET/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
