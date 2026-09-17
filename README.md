@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/sonaa1107/DSA_SHEET/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/sonaa1107/DSA_SHEET/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/sonaa1107/DSA_SHEET/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sonaa1107/DSA_SHEET/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/sonaa1107/DSA_SHEET/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/sonaa1107/DSA_SHEET/tree/master/0079-word-search) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sonaa1107/DSA_SHEET/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/sonaa1107/DSA_SHEET/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/sonaa1107/DSA_SHEET/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sonaa1107/DSA_SHEET/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/sonaa1107/DSA_SHEET/tree/master/0031-next-permutation) |
@@ -371,4 +373,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/sonaa1107/DSA_SHEET/tree/master/0973-k-closest-points-to-origin) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sonaa1107/DSA_SHEET/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
