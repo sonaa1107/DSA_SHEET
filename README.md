@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sonaa1107/DSA_SHEET/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/sonaa1107/DSA_SHEET/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sonaa1107/DSA_SHEET/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/sonaa1107/DSA_SHEET/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/sonaa1107/DSA_SHEET/tree/master/0073-set-matrix-zeroes) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/sonaa1107/DSA_SHEET/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/sonaa1107/DSA_SHEET/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sonaa1107/DSA_SHEET/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/sonaa1107/DSA_SHEET/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/sonaa1107/DSA_SHEET/tree/master/0079-word-search) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/sonaa1107/DSA_SHEET/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/sonaa1107/DSA_SHEET/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sonaa1107/DSA_SHEET/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/sonaa1107/DSA_SHEET/tree/master/0060-permutation-sequence) |
