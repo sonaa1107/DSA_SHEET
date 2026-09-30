@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sonaa1107/DSA_SHEET/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sonaa1107/DSA_SHEET/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/sonaa1107/DSA_SHEET/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sonaa1107/DSA_SHEET/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0079-word-search](https://github.com/sonaa1107/DSA_SHEET/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/sonaa1107/DSA_SHEET/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/sonaa1107/DSA_SHEET/tree/master/0179-largest-number) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sonaa1107/DSA_SHEET/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sonaa1107/DSA_SHEET/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sonaa1107/DSA_SHEET/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sonaa1107/DSA_SHEET/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/sonaa1107/DSA_SHEET/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/sonaa1107/DSA_SHEET/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/sonaa1107/DSA_SHEET/tree/master/0151-reverse-words-in-a-string) |
@@ -377,4 +379,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sonaa1107/DSA_SHEET/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sonaa1107/DSA_SHEET/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sonaa1107/DSA_SHEET/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sonaa1107/DSA_SHEET/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sonaa1107/DSA_SHEET/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
