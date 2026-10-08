@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/sonaa1107/DSA_SHEET/tree/master/0973-k-closest-points-to-origin) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sonaa1107/DSA_SHEET/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1094-car-pooling](https://github.com/sonaa1107/DSA_SHEET/tree/master/1094-car-pooling) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sonaa1107/DSA_SHEET/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sonaa1107/DSA_SHEET/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sonaa1107/DSA_SHEET/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1710-maximum-units-on-a-truck](https://github.com/sonaa1107/DSA_SHEET/tree/master/1710-maximum-units-on-a-truck) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/sonaa1107/DSA_SHEET/tree/master/0287-find-the-duplicate-number) |
 | [0658-find-k-closest-elements](https://github.com/sonaa1107/DSA_SHEET/tree/master/0658-find-k-closest-elements) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sonaa1107/DSA_SHEET/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sonaa1107/DSA_SHEET/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Breadth-First Search
 |  |
