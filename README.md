@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/sonaa1107/DSA_SHEET/tree/master/1710-maximum-units-on-a-truck) |
 | [1816-truncate-sentence](https://github.com/sonaa1107/DSA_SHEET/tree/master/1816-truncate-sentence) |
 | [1834-single-threaded-cpu](https://github.com/sonaa1107/DSA_SHEET/tree/master/1834-single-threaded-cpu) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/sonaa1107/DSA_SHEET/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/sonaa1107/DSA_SHEET/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sonaa1107/DSA_SHEET/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sonaa1107/DSA_SHEET/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sonaa1107/DSA_SHEET/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/sonaa1107/DSA_SHEET/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/sonaa1107/DSA_SHEET/tree/master/0079-word-search) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/sonaa1107/DSA_SHEET/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Greedy
 |  |
 | ------- |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/sonaa1107/DSA_SHEET/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sonaa1107/DSA_SHEET/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/sonaa1107/DSA_SHEET/tree/master/1302-deepest-leaves-sum) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/sonaa1107/DSA_SHEET/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Union-Find
 |  |
 | ------- |
