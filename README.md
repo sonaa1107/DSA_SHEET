@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/sonaa1107/DSA_SHEET/tree/master/0060-permutation-sequence) |
 | [0973-k-closest-points-to-origin](https://github.com/sonaa1107/DSA_SHEET/tree/master/0973-k-closest-points-to-origin) |
 | [1922-count-good-numbers](https://github.com/sonaa1107/DSA_SHEET/tree/master/1922-count-good-numbers) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sonaa1107/DSA_SHEET/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sonaa1107/DSA_SHEET/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sonaa1107/DSA_SHEET/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2611-mice-and-cheese](https://github.com/sonaa1107/DSA_SHEET/tree/master/2611-mice-and-cheese) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sonaa1107/DSA_SHEET/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
