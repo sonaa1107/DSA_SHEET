@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/sonaa1107/DSA_SHEET/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/sonaa1107/DSA_SHEET/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/sonaa1107/DSA_SHEET/tree/master/0347-top-k-frequent-elements) |
+| [0403-frog-jump](https://github.com/sonaa1107/DSA_SHEET/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/sonaa1107/DSA_SHEET/tree/master/0435-non-overlapping-intervals) |
 | [0560-subarray-sum-equals-k](https://github.com/sonaa1107/DSA_SHEET/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/sonaa1107/DSA_SHEET/tree/master/0658-find-k-closest-elements) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/sonaa1107/DSA_SHEET/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/sonaa1107/DSA_SHEET/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sonaa1107/DSA_SHEET/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0403-frog-jump](https://github.com/sonaa1107/DSA_SHEET/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/sonaa1107/DSA_SHEET/tree/master/0435-non-overlapping-intervals) |
 | [0940-distinct-subsequences-ii](https://github.com/sonaa1107/DSA_SHEET/tree/master/0940-distinct-subsequences-ii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/sonaa1107/DSA_SHEET/tree/master/1373-maximum-sum-bst-in-binary-tree) |
